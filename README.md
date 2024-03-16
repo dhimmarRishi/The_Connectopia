@@ -1,4 +1,3 @@
-#Connectopia
 Connectopia is a social media website implemented in MERN which offers feactures like : 
 -User Registration , authentication and authorization
 -Post upload text as well as image content 
